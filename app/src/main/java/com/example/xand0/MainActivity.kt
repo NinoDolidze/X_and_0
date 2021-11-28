@@ -28,8 +28,6 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
     private var activePlayer = 1
 
 
-
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
@@ -200,5 +198,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
         } else if (winnerPlayer == 2) {
             Toast.makeText(this, "Second player won!", Toast.LENGTH_SHORT).show()
         }
+
     }
 }
+

@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Administrator/Xand0/app/src/main/res/layout/activity_main.xml" value="0.1953125" />
+        <entry key="..\:/Users/Administrator/Xand0/app/src/main/res/drawable/background_round.xml" value="0.14629629629629629" />
+        <entry key="..\:/Users/Administrator/Xand0/app/src/main/res/drawable/background_round_2.xml" value="0.14629629629629629" />
+        <entry key="..\:/Users/Administrator/Xand0/app/src/main/res/drawable/background_round_3.xml" value="0.14629629629629629" />
+        <entry key="..\:/Users/Administrator/Xand0/app/src/main/res/drawable/button_round.xml" value="0.14629629629629629" />
+        <entry key="..\:/Users/Administrator/Xand0/app/src/main/res/layout/activity_main.xml" value="0.25" />
       </map>
     </option>
   </component>
